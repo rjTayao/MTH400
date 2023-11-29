@@ -1,2 +1,2 @@
-# MTH400
+# MTH4000
 My python module
